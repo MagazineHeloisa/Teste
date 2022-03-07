@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Cores</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='Externo.css'>
+    <script src='main.js'></script>
+</head>
+    
+<body>
+    <style>
+    .bloco{
+        height: 150px;
+        width: 150px;
+        background-color: rgb(90, 30, 255);
+    }
+    
+    .bloco h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        font-size: 20px;
+        color: white;
+    }
+    </style>
+
+    <style>
+    .bloco2{
+        height: 150px;
+        width: 150px;
+        background-color: rgb(240, 109, 49);
+}
+
+    .bloco2 h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        font-size: 20px;
+        color: white;
+}
+    </style>
+    
+  
+    <style>
+        .bloco3{
+            height: 150px;
+            width: 150px;
+            background-color: red;
+        }
+
+        .bloco3 h1 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+            font-size: 20px;
+            color: white;
+        }
+
+    </style>
+
+    <style>
+    .bloco4{
+        height: 150px;
+        width: 150px;
+        background-color: cyan;
+    }
+
+    .bloco4 h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        font-size: 20px;
+        color: white;
+    }
+
+    </style>
+    <section>
+    <br>
+    <div class="bloco"> 
+    <h1>Cor fria</h1>
+    </div>
+    <br>
+
+    <div class="bloco2"> 
+    <h1>Cor quente</h1>
+    </div>
+    <br>
+
+    <div class="bloco3"> 
+    <h1>Cor primária</h1>
+    </div>
+    <br>
+
+    <div class="bloco4"> 
+    <h1>Cor secundária</h1>
+    </div>
+    <br>
+    </section>
+
+</body>
+</html>
